@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Educational Website</title>
+<title>Heritage Secondary School/title>
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
 
