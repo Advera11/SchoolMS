@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Heritage Secondary School/title>
+<title>Heritage Secondary School</title>
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
 
