@@ -11,16 +11,15 @@
 <!----- Start Header (or) Menu ------>
 <div class="header">
 	<div class="header-left">
-        <a href="http://www.freetimelearning.com" target="_blank">
-            <img src="imges/logo.jpg" width="231" height="61" />
+	    <img src="imges/logo.jpg" width="231" height="61" />
         </a>
     </div>
     <div class="header-right">
     	<ul>
         	<li><a href="index.php">Home</a></li>
             <li><a href="login.php">Login</a></li>
-            <li><a href="#!">Register</a></li>
-            <li><a href="#!">Alumni</a></li>
+            <li><a href="register.php#!">Register</a></li>
+            <li><a href="alumni.php">Alumni</a></li>
             <li><a href="about.php">About Us</a></li>
             <li><a href="#footer">Contact Us</a></li>
         </ul>

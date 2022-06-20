@@ -19,9 +19,9 @@
     <div class="header-right">
     	<ul>
         	<li><a href="index.php">Home</a></li>
-            <li><a href="http://localhost:8080/SchoolMS/login.php">Login</a></li>
-            <li><a href="#!">Register</a></li>
-            <li><a href="#!">Alumni</a></li>
+            <li><a href="login.php">Login</a></li>
+            <li><a href="register.php">Register</a></li>
+            <li><a href="alumni.php">Alumni</a></li>
             <li><a href="#!">Staff</a></li>
             <li><a href="about.php">About Us</a></li>
             <li><a href="#footer">Contact Us</a></li>
@@ -42,7 +42,7 @@
 <!----- Start Content ------>
 <div class="content">
 
-  <div class="content-header">Welcome To <a href="about.html">Heritage Secondary School</a></div>
+  <div class="content-header">Welcome To <a href="about.php">Heritage Secondary School</a></div>
   
   <div class="content-left">
         <div class="clearfix"></div>
