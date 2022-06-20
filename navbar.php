@@ -9,7 +9,7 @@
 if(isset($_SESSION['aid'])){
 	echo '
 
-	 <li> <a href="admin.php"> Home </a></li>
+	 <li> <a href="index.php"> Home </a></li>
 	 <li> <a href="settings.php"> Settings </a></li>
 	 <li> <a href="about.php"> About </a></li>
 	 <li> <a href="index.php"> Logout</a></li>
