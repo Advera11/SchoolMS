@@ -46,7 +46,9 @@
   
   <div class="content-left">
         <div class="clearfix"></div>
-We have Sufficient Classrooms to make student learn confortably. For the physical health of our Students, we have sports facilities
+        Heritage secondary school was established in January 2011. It is located 56 kilometers from Dar es Salaam along Morogoro road. 2 kilometers from kongowe center along Soga road. Heritage secondary is set in serene environment at Vikuge, Soga ward. We offer conducive leaning environment for student, away from the hustle and bustle of the city life. 
+    </div>
+
     <div class="content-right"><img src="imges/heritage.jpg" width="400" height="200" /></div>
    <br><br>
 
@@ -57,7 +59,8 @@ We have Sufficient Classrooms to make student learn confortably. For the physica
         <div class="content-bottom-bg">
         	<div class="content-bottom-bg-header">School Campus</div>
             <div class="content-bottom-bg-p">
-		We have the best teachers who provide the best services. We use different and modern learning methods to enhance students performance
+            We have Sufficient Classrooms to make student learn confortably. 
+            For the physical health of our Students, we have sports facilities
         	</div>
         </div>
     </div>
@@ -66,8 +69,8 @@ We have Sufficient Classrooms to make student learn confortably. For the physica
         <div class="content-bottom-bg">
         	<div class="content-bottom-bg-header">Accademic Department</div>
             <div class="content-bottom-bg-p">
-                    Heritage secondary school is dedicated to empowering students to become life-long learners, committed to honesty, equality, respect, integrity, trust, achievement, generosity and excellence. All classrooms provide a student-centered, careful, relevant and innovative standards-based curriculum, developed in a professional learning community. We are committed to preparing our students to be productive citizens in a global community using career academies, enhanced extracurricular activities, and instructional technology.
-
+            We have the best teachers who provide the best services. 
+            We use different and modern learning methods to enhance students performance
         	</div>
         </div>
     </div>
@@ -87,8 +90,8 @@ We have Sufficient Classrooms to make student learn confortably. For the physica
 <!------ Start Testimonials ------->
 <div class="testimonials">
 	<div class="testimonials-h4">
-    	“ Before we depart to our daily activities we always start with God. God is good all the times. ”<br /><br />
-        <a href="#!"> School motto 'Truth'</a>
+    	“ when an  unknown  printer took  a galley  of type and scrambled it to  make a type specimen ”<br /><br />
+        <a href="#!">Free Time Learn</a>
     </div>
 </div>
 <!------ End Testimonials ------->
