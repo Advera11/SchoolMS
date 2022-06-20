@@ -90,8 +90,8 @@
 <!------ Start Testimonials ------->
 <div class="testimonials">
 	<div class="testimonials-h4">
-    	“ when an  unknown  printer took  a galley  of type and scrambled it to  make a type specimen ”<br /><br />
-        <a href="#!">Free Time Learn</a>
+    	“ Before we depart to our daily activities we always start with God. God is good all the times. ”<br /><br />
+        <a href="#!">School motto 'TRUTH'</a>
     </div>
 </div>
 <!------ End Testimonials ------->
@@ -129,7 +129,7 @@ info@heritagesecondary.ac.tz</a></li>
         &copy; 2022. All rights reserved.
         </div>
         <div class="copyrights-right">
-        	Designed by <a href="http://www.freetimelearning.com" target="_blank">Advera11</a>
+        	Designed by <a href="https://github.com/Advera11/SchoolMS/" target="_blank">Advera11</a>
         </div>
     </div>
 </div>
