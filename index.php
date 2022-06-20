@@ -46,9 +46,7 @@
   
   <div class="content-left">
         <div class="clearfix"></div>
-        Heritage secondary school is dedicated to empowering students to become life-long learners, committed to honesty, equality, respect, integrity, trust, achievement, generosity and excellence. All classrooms provide a student-centered, careful, relevant and innovative standards-based curriculum, developed in a professional learning community. We are committed to preparing our students to be productive citizens in a global community using career academies, enhanced extracurricular activities, and instructional technology.
-    </div>
-
+We have Sufficient Classrooms to make student learn confortably. For the physical health of our Students, we have sports facilities
     <div class="content-right"><img src="imges/heritage.jpg" width="400" height="200" /></div>
    <br><br>
 
@@ -59,8 +57,7 @@
         <div class="content-bottom-bg">
         	<div class="content-bottom-bg-header">School Campus</div>
             <div class="content-bottom-bg-p">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-            Lorem Ipsum has been the industry's standard.
+		We have the best teachers who provide the best services. We use different and modern learning methods to enhance students performance
         	</div>
         </div>
     </div>
@@ -69,8 +66,8 @@
         <div class="content-bottom-bg">
         	<div class="content-bottom-bg-header">Accademic Department</div>
             <div class="content-bottom-bg-p">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-            Lorem Ipsum has been the industry's standard.
+                    Heritage secondary school is dedicated to empowering students to become life-long learners, committed to honesty, equality, respect, integrity, trust, achievement, generosity and excellence. All classrooms provide a student-centered, careful, relevant and innovative standards-based curriculum, developed in a professional learning community. We are committed to preparing our students to be productive citizens in a global community using career academies, enhanced extracurricular activities, and instructional technology.
+
         	</div>
         </div>
     </div>
@@ -90,8 +87,8 @@
 <!------ Start Testimonials ------->
 <div class="testimonials">
 	<div class="testimonials-h4">
-    	“ when an  unknown  printer took  a galley  of type and scrambled it to  make a type specimen ”<br /><br />
-        <a href="#!">Free Time Learn</a>
+    	“ Before we depart to our daily activities we always start with God. God is good all the times. ”<br /><br />
+        <a href="#!"> School motto 'Truth'</a>
     </div>
 </div>
 <!------ End Testimonials ------->
